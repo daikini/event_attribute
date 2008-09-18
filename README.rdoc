@@ -32,4 +32,4 @@ Example
   # or
   Referral.find_by_name_and_pending_and_subscribed('John Smith', false, true)  # => Referral object
 
-Copyright (c) 2007 [Jonathan Younger], released under the MIT license
+Copyright (c) 2007 Jonathan Younger, released under the MIT license
