@@ -22,7 +22,7 @@ Example
   referral.pending?           # => true
   
   referral.subscribed = true
-  referral.subscribed_at      # => Time.now
+  referral.subscribed_on      # => Time.now
   referral.subscribed?        # => true
   
   
